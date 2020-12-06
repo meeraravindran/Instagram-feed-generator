@@ -104,7 +104,7 @@ export default class SignUp extends Component{
          <br></br>
 
         <form onSubmit={this.handleSubmit} autoComplete="off" className="ui form stackable center aligned one column grid">
-        <h1 className="centered">Spritle Application</h1>
+        <h1 className="centered">Application</h1>
 
             <div className="three column row">
                 <div className="column"></div>
